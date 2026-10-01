@@ -1,0 +1,9 @@
+{
+  "name": "thesis-e2e-check",
+  "version": "1.0.0",
+  "description": "Thesis E2E Verification App for DISAL",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
